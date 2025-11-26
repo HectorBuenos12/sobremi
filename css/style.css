@@ -200,6 +200,8 @@ img {
   border-radius: 20px;
   cursor: pointer;
   box-shadow: 1px 3px 11px -5px rgba(102, 221, 200, 0.69);
+  right: 10px;
+  bottom: 10px;
 }
 
 .btn:hover {
